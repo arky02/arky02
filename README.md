@@ -2,7 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=timeAuto&height=200&section=header&text=Hi%20there!%20👋&fontSize=70)
 
-🌱 I’m currently learning JavaScript, TypeScript, React, C, Java
+
+🌱 I’m currently learning JavaScript, TypeScript, React, C, Java.
+🎓 I'm majoring in CS & E, at Ewha Womans University.
+📧 kyean07@naver.com / kyean831@gmail.com
 
 <!--
 **arky02/arky02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
