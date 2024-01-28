@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning JavaScript, TypeScript, React, Java, C
+🌱 I’m currently learning JavaScript, TypeScript, React, C, Java
 
 <!--
 **arky02/arky02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
