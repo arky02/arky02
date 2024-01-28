@@ -5,7 +5,7 @@
 <br/>
 🌱 I’m currently learning JavaScript, TypeScript, React, C, Java.<br/>
 🎓 I'm majoring in CS & E, at Ewha Womans University.<br/>
-📧 kyean07@naver.com / kyean831@gmail.com
+📧 kyean07@naver.com / kyean831@gmail.com<br/>
 
 <!--
 **arky02/arky02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
