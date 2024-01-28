@@ -3,8 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=timeAuto&height=200&section=header&text=Hi%20there!%20👋&fontSize=70)
 
 <br/>
-🌱 I’m currently learning JavaScript, TypeScript, React, C, Java.<br />
-🎓 I'm majoring in CS & E, at Ewha Womans University.<br />
+🌱 I’m currently learning JavaScript, TypeScript, React, C, Java <br />
+🎓 I'm majoring in CS & E, at Ewha Womans University<br />
 📧 E-mail: kyean07@naver.com / kyean831@gmail.com <br />
 <br />
 
