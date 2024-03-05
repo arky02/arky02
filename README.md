@@ -4,6 +4,7 @@
 
 <br/>
 🌱 I’m currently learning JavaScript, TypeScript, React, C, Java <br />
+😄 I'm interested in Front-End Development, Android Application Development <br />
 🎓 I'm majoring in CS & E, at Ewha Womans University<br />
 📧 E-mail: kyean07@naver.com / kyean831@gmail.com <br />
 <br />
