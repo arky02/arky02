@@ -24,6 +24,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arky02&layout=compact)
 
  [![arky02's github stats](https://github-readme-stats.vercel.app/api?username=arky02&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
