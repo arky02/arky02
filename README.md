@@ -5,7 +5,7 @@
 <br/>
 😄 I'm interested in Front-End, Back-End development & Android / IOS Application development <br />
 🎓 I'm majoring in CS & E, at Ewha Womans University<br />
-📧 E-mail: kykim@kiyeon.kim <br />
+📧 kykim@kiyeon.kim <br />
 <br />
 
 <!--
