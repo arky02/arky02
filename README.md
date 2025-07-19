@@ -5,7 +5,7 @@
 <br/>
 😄 I'm interested in Front-End, Back-End development & Android / IOS Application development <br />
 🎓 I'm majoring in CS & E, at Ewha Womans University<br />
-📧 E-mail: kyean07@naver.com / kyean831@gmail.com <br />
+📧 E-mail: kykim@kiyeon.kim <br />
 <br />
 
 <!--
@@ -14,7 +14,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learningmTypeScript, React, Flutter <br />
+- 🌱 I’m currently learning TypeScript, React, Flutter <br />
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
